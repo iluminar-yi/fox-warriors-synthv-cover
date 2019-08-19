@@ -3740,55 +3740,6 @@
           "pitch": 69
         },
         {
-          "onset": 268480800000,
-          "duration": 352800000,
-          "lyric": "zhi",
-          "comment": "直",
-          "pitch": 69
-        },
-        {
-          "onset": 268833600000,
-          "duration": 352800000,
-          "lyric": "dao",
-          "comment": "到",
-          "pitch": 69
-        },
-        {
-          "onset": 269186400000,
-          "duration": 352800000,
-          "lyric": "suo",
-          "comment": "所",
-          "pitch": 69
-        },
-        {
-          "onset": 269539200000,
-          "duration": 352800000,
-          "lyric": "you",
-          "comment": "有",
-          "pitch": 67
-        },
-        {
-          "onset": 269892000000,
-          "duration": 352800000,
-          "lyric": "qin",
-          "comment": "侵",
-          "pitch": 67
-        },
-        {
-          "onset": 270244800000,
-          "duration": 352800000,
-          "lyric": "lue",
-          "comment": "略",
-          "pitch": 67
-        },
-        {
-          "onset": 270597600000,
-          "duration": 264600000,
-          "lyric": "zhe",
-          "comment": "者",
-          "pitch": 67
-        },
-        {
           "onset": 270950400000,
           "duration": 529200000,
           "lyric": "wu",
@@ -3867,7 +3818,7 @@
         },
         {
           "onset": 276595200000,
-          "duration": 529200000,
+          "duration": 705600000,
           "lyric": "zi",
           "comment": "自",
           "pitch": 69
@@ -3877,13 +3828,6 @@
           "duration": 352800000,
           "lyric": "you",
           "comment": "由",
-          "pitch": 69
-        },
-        {
-          "onset": 277653600000,
-          "duration": 529200000,
-          "lyric": "de",
-          "comment": "的",
           "pitch": 69
         },
         {
@@ -4492,7 +4436,7 @@
         },
         {
           "onset": 276595200000,
-          "duration": 529200000,
+          "duration": 705600000,
           "lyric": "zi",
           "comment": "自",
           "pitch": 65
@@ -4502,13 +4446,6 @@
           "duration": 352800000,
           "lyric": "you",
           "comment": "由",
-          "pitch": 65
-        },
-        {
-          "onset": 277653600000,
-          "duration": 529200000,
-          "lyric": "de",
-          "comment": "的",
           "pitch": 65
         },
         {
