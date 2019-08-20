@@ -24,7 +24,7 @@
   "tracks": [
     {
       "name": "Melody",
-      "dbName": "五维介质·赤羽",
+      "dbName": "五维介质·苍穹",
       "color": "15e879",
       "displayOrder": 0,
       "dbDefaults": {
@@ -3015,7 +3015,7 @@
     },
     {
       "name": "Harmony",
-      "dbName": "五维介质·赤羽",
+      "dbName": "五维介质·苍穹",
       "color": "ff1599e8",
       "displayOrder": 1,
       "dbDefaults": {
@@ -3620,7 +3620,7 @@
     },
     {
       "name": "Harmony Sopranos",
-      "dbName": "五维介质·赤羽",
+      "dbName": "五维介质·苍穹",
       "color": "ff4f15e8",
       "displayOrder": 2,
       "dbDefaults": {
@@ -4280,7 +4280,7 @@
     },
     {
       "name": "Harmony Altos",
-      "dbName": "五维介质·赤羽",
+      "dbName": "五维介质·苍穹",
       "color": "ffe815c3",
       "displayOrder": 3,
       "dbDefaults": {
