@@ -18,6 +18,10 @@
     },
     {
       "position": 333043200000,
+      "beatPerMinute": 130.2
+    },
+    {
+      "position": 361267200000,
       "beatPerMinute": 130
     }
   ],
